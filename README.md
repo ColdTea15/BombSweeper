@@ -32,7 +32,7 @@ This project demonstrates key OOP concepts such as encapsulation, inheritance, a
 
    ```bash
    javac *.java
-````
+   ```
 
 2. **Run the Driver class to start the game:**
 
