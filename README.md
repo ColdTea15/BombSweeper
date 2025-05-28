@@ -65,9 +65,7 @@ This project demonstrates key OOP concepts such as encapsulation, inheritance, a
 ---
 
 ## Author
-
-**colmantee**
-[GitHub Profile](https://github.com/ColdTea15)
+[Colman Tee](https://github.com/ColdTea15)
 
 ---
 
